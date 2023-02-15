@@ -42,15 +42,24 @@ Untuk nomor 3 dan 4 agar tau hasilnya apakah berhasil atau tidak bisa memilih no
 ![(2)](https://user-images.githubusercontent.com/101117829/219061942-82adb51c-699d-4d16-aea2-7cd27da74bdb.PNG)
 ![(3)](https://user-images.githubusercontent.com/101117829/219061970-2de5f12e-12d5-411c-9f1c-e07a8efb1394.PNG)
 
+
+
+
 * **C++**
 ![(1)](https://user-images.githubusercontent.com/101117829/219062136-83b9381c-39cc-4ba4-8079-ffbb681d6dc5.PNG)
 ![(2)](https://user-images.githubusercontent.com/101117829/219062160-52f331be-dd46-487a-9598-fc747a1949bf.PNG)
 ![(3)](https://user-images.githubusercontent.com/101117829/219062218-86923610-196a-4beb-93b6-37c23b2388b8.PNG)
 
+
+
+
 * **PYTHON**
 ![(1)](https://user-images.githubusercontent.com/101117829/219062345-188a891f-341b-44cb-a82d-765622982533.PNG)
 ![(2)](https://user-images.githubusercontent.com/101117829/219062374-96660c6f-9f4b-4d38-b14d-3941349e67f7.PNG)
 ![(3)](https://user-images.githubusercontent.com/101117829/219062402-4a53d146-3ceb-4e80-b292-09b4c7a3281f.PNG)
+
+
+
 
 * **PHP**
  ![(1)](https://user-images.githubusercontent.com/101117829/219062609-87daa083-cbe7-4203-97f7-4479756988a9.PNG)
