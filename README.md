@@ -22,16 +22,20 @@ Alur program yang dibuat pada keempat bahasa sama, kecuali pada bahasa PHP yang 
 Untuk program C++, Java, dan Python ketika pertama dijalankan akan menampilkan 5 pilihan. Pada bahasa C++ dan Java terdapat 1-4 untuk menjalankan perintah dan 0 untuk mengakhiri program pada bahasa C++ dan Java. Sedangkan angka 5 untuk mengakhiri program pada bahasa Python.
 
 * **Nomor 1** 
-untuk menjalankan perintah menambahkan data mahasiswa, dimana user akan diminta memasukkan Nama, NIM, Program Studi, Fakultas, dan Semester. Ketika sudah dimasukkan semua maka akan menampilkan BERHASIL DITAMBAHKAN!
+
+Untuk menjalankan perintah menambahkan data mahasiswa, dimana user akan diminta memasukkan Nama, NIM, Program Studi, Fakultas, dan Semester. Ketika sudah dimasukkan semua maka akan menampilkan BERHASIL DITAMBAHKAN!
 
 * **Nomor 2** 
-untuk menjalankan perintah menampilkan semua data mahasiswa, dimana akan menampilkan semua data mahasiswa yang sudah dimasukkan.
+
+Untuk menjalankan perintah menampilkan semua data mahasiswa, dimana akan menampilkan semua data mahasiswa yang sudah dimasukkan.
 
 * **Nomor 3**
-untuk menjalankan perintah jika ingin mengubah data yang dicari berdasarkan masukkan NIM mahasiswa oleh user, dimana pertama-tama user akan diminta memasukkan NIM mahasiswa yang akan diubah, lalu setelah mengisi NIM maka akan muncul Menambahkan data baru, dan user akan memasukkan data seperti Nama, NIM, Program Studi, Fakultas, dan Semester. Ketika sudah mengisi semua maka akan muncul BERHASIL DI UPDATE!
+
+Untuk menjalankan perintah jika ingin mengubah data yang dicari berdasarkan masukkan NIM mahasiswa oleh user, dimana pertama-tama user akan diminta memasukkan NIM mahasiswa yang akan diubah, lalu setelah mengisi NIM maka akan muncul Menambahkan data baru, dan user akan memasukkan data seperti Nama, NIM, Program Studi, Fakultas, dan Semester. Ketika sudah mengisi semua maka akan muncul BERHASIL DI UPDATE!
 
 * **Nomor 4**
-untuk menjalankan perintah jika ingin menghapus data mahasiswa yang dicari berdasarkan masukkan NIM mahasiswa oleh user, dimana user akan diminta memasukkan NIM mahasiswa yang akan dihapus dan ketika berhasil akan menampilkan BERHASIL DI HAPUS!
+
+Untuk menjalankan perintah jika ingin menghapus data mahasiswa yang dicari berdasarkan masukkan NIM mahasiswa oleh user, dimana user akan diminta memasukkan NIM mahasiswa yang akan dihapus dan ketika berhasil akan menampilkan BERHASIL DI HAPUS!
 
 Untuk nomor 3 dan 4 agar tau hasilnya apakah berhasil atau tidak bisa memilih nomor 2 untuk mengecek.
 
