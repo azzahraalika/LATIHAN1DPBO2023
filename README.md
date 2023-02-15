@@ -54,6 +54,7 @@ Untuk nomor 3 dan 4 agar tau hasilnya apakah berhasil atau tidak bisa memilih no
 
 
 * **PYTHON**
+
 ![(1)](https://user-images.githubusercontent.com/101117829/219062345-188a891f-341b-44cb-a82d-765622982533.PNG)
 ![(2)](https://user-images.githubusercontent.com/101117829/219062374-96660c6f-9f4b-4d38-b14d-3941349e67f7.PNG)
 ![(3)](https://user-images.githubusercontent.com/101117829/219062402-4a53d146-3ceb-4e80-b292-09b4c7a3281f.PNG)
